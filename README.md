@@ -1,15 +1,15 @@
 <<<<<<< HEAD
-<a href="https://youtube.com/@zim-bot"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@zim-bot" /><br>
+<a href="https://www.youtube.com/@ayushmuzik1037"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@ayushmuzik1037" /><br>
 
 # ZIM BOT V4
 
 ## ``` This Script is for Everyone Don't sell it at high price ```
-## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtube.com/@zim-bot)
+## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://www.youtube.com/@ayushmuzik1037)
 
 ##  ``` Are you Experiencing an error don't hesitate to ask me ``` [`DRIPS`](https://wa.me/+447441437150)
  WhatsApp with so Many features using multi device  [`BAILEYS`](https://github.com/adiwajshing/baileys)
  
- <a href="https://youtube.com/@zim-bot"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@zim-bot" /><br>
+ <a href="https://www.youtube.com/@ayushmuzik1037"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@ayushmuzik1037" /><br>
  
  ## ```Donate Me```
 

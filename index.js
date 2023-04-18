@@ -199,12 +199,12 @@ buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
 title:"ZIM BOT V4",
-body:"SUB DRIPS OFC",
+body:"SUB AYUSH OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail:wangu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
+sourceUrl: `https://www.instagram.com/itzisaac_god`,
 }}
 }
 const driphunny = fs.readFileSync('./Zimbot/welcome.mp3')
@@ -232,12 +232,12 @@ buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
 title:"ZIM BOT V4",
-body:"SUB DRIPS OFC",
+body:"SUB AYUSH OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: mhatadzenyu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
+sourceUrl: `https://www.instagram.com/itzisaac_god/`,
 }}
 }
 const dripbabe = fs.readFileSync('./Zimbot/leave.mp3')
