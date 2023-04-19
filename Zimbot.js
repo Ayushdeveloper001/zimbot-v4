@@ -8,7 +8,7 @@
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮blessedtuna@mail.uk
 //▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://www.youtube.com/@ayushmuzik1037
+//▮YOUTUBE CHANNELL: https://youtube.com/@zim-bot
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -162,10 +162,10 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
     
 const reply = (teks) => {
-  ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: true,body: "AYUSH OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://www.youtube.com/@ayushmuzik1037")}}})
+  ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: true,body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
 }
 const replay = (teks) => {
-  ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: "AYUSH OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://www.youtube.com/@ayushmuzik1037")}}})
+  ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
 }    
  
 const tempButtons = async (remoteJid, text, footer, content) => {
@@ -178,7 +178,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -197,7 +197,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
  hydratedButtons: content,
 },
 },
@@ -216,7 +216,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -235,7 +235,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -254,7 +254,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -273,7 +273,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -290,7 +290,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -312,7 +312,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -331,7 +331,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -350,7 +350,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -369,7 +369,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -388,7 +388,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -411,8 +411,8 @@ showAdAttribution: true,
 title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",
 body: "GIVE IT A STAR",
 mediaType: "VIDEO",
-mediaUrl: `https://githb.com/ayushdeveloper001/zimbot-v4`,
-description: 'AYUSH OFC',
+mediaUrl: `https://githb.com/zim-bot/zimbot-v4`,
+description: 'DRIPS OFC',
 previewType: "PHOTO",
 thumbnail: fs.readFileSync('./drips.jpg'),
 sourceUrl: "",
@@ -444,7 +444,7 @@ showAdAttribution: true,
                },
     message: { 
        "extendedTextMessage": {
-                "text":'SUB AYUSH OFC',
+                "text":'SUB DRIPS OFC',
                 "title": 'ᴢɪᴍ ʙᴏᴛ ɪɴᴄ',
                 'jpegThumbnail': fs.readFileSync('./drips.jpg')
              }
@@ -721,7 +721,7 @@ hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
 hydratedButtons:  [{        
     "urlButton": {
       "displayText": "SUBSCRIBE",
-      "url": "https://www.youtube.com/@ayushmuzik1037"
+      "url": "https://youtube.com/@zim-bot"
     }
 }, {
 quickReplyButton: {
@@ -774,7 +774,7 @@ var hg = `
   hydratedButtons:  [{        
       "urlButton": {
         "displayText": "SUBSCRIBE",
-        "url": "https://www.youtube.com/@ayushmuzik1037"
+        "url": "https://youtube.com/@zim-bot"
       }
   }, {
   quickReplyButton: {
@@ -823,7 +823,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
           hydratedButtons:  [{        
               "urlButton": {
                 "displayText": "SUBSCRIBE",
-                "url": "https://www.youtube.com/@ayushmuzik1037"
+                "url": "https://youtube.com/@zim-bot"
               }
           }, {
           quickReplyButton: {
@@ -872,7 +872,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/@ayushmuzik1037"
+                  "url": "https://youtube.com/@zim-bot"
                 }
             }, {
             quickReplyButton: {
@@ -921,7 +921,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/@ayushmuzik1037"
+                  "url": "https://youtube.com/@zim-bot"
                 }
             }, {
             quickReplyButton: {
@@ -971,7 +971,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://www.youtube.com/@ayushmuzik1037"
+              "url": "https://youtube.com/@zim-bot"
               }
             }, {
               quickReplyButton: {
@@ -1022,7 +1022,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://www.youtube.com/@ayushmuzik1037"
+              "url": "https://youtube.com/@zim-bot"
               }
             }, {
               quickReplyButton: {
@@ -1068,7 +1068,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/@ayushmuzik1037"
+                  "url": "https://youtube.com/@zim-bot"
                 }
             }, {
             quickReplyButton: {
@@ -1418,7 +1418,7 @@ setInterval(() => {
 //But5Loc
 var nextMinutes = Math.random() * 300 + 1000;
 setTimeout(function(){
-  ZimBotInc.sendMessage(ZimBotInc.user.id, {text: `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ ANNOUNCEMENT:* *SUBSCRIBE TO AYUSH OFC*\n\n*YOUTUBE:* https://www.youtube.com/@ayushmuzik1037\n\n*NEW FEATURES COMING SOON SO STAY TUNED*\n\n*FEEL FREE TO BRING IDEAS OF THE FEATURES ON THE TABLE*\n\n*IF YOU WANT TO CONTRUBUTE FORK THE REPO, MAKE CHANGES PUSH YOUR CHANGES TO THE ORIGIN BRANCH AND WAIT FOR YOUR PULL REQUEST TO BE VERIFIED*\n\n*Thanks for choosing zim-bot*`,contextInfo: { externalAdReply:{title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",body:"SUBSCRIBE AYUSH OFC",showAdAttribution: true,mediaType:2,thumbnail: fs.readFileSync(`./drips.jpg`) ,mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }}}, {quoted: m})
+  ZimBotInc.sendMessage(ZimBotInc.user.id, {text: `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ ANNOUNCEMENT:* *SUBSCRIBE TO DRIPS OFC*\n\n*YOUTUBE:* https://youtube.com/@zim-bot\n\n*NEW FEATURES COMING SOON SO STAY TUNED*\n\n*FEEL FREE TO BRING IDEAS OF THE FEATURES ON THE TABLE*\n\n*IF YOU WANT TO CONTRUBUTE FORK THE REPO, MAKE CHANGES PUSH YOUR CHANGES TO THE ORIGIN BRANCH AND WAIT FOR YOUR PULL REQUEST TO BE VERIFIED*\n\n*Thanks for choosing zim-bot*`,contextInfo: { externalAdReply:{title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",body:"SUBSCRIBE DRIPS OFC",showAdAttribution: true,mediaType:2,thumbnail: fs.readFileSync(`./drips.jpg`) ,mediaUrl:`https://youtu.be/KNu-gr2h7bo`, sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
   //anouncement by drips 
 }, nextMinutes * 300 * 1000);
 const send5Butlmg = async (jid , text = '' , footer = '', img, but = [], options = {}) =>{
@@ -1818,14 +1818,14 @@ downloader.downloadAPK("com.microbees.floatingapp")
  
  
   /*  case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-   ZimBotInc.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/TfI3QYW.jpg' }, caption: `*𝗛𝗜 𝗕𝗥𝗢 ${m.pushName}*\n\n Per Private Bot Price is 350 rs Gr via Gpay/paytm/phonepe 1.5 Month\n\nFor more details, you can chat with the owner\nhttps://wa.me/918602306506 (ZIM BOT OWNER)\n\n𝗗𝗢𝗡𝗔𝗧𝗘 : \n\n 𝗙𝗔𝗠𝗣𝗔𝗬 : wa.me/918602306506` }, { quoted: m })
+   ZimBotInc.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/TfI3QYW.jpg' }, caption: `*𝗛𝗜 𝗕𝗥𝗢 ${m.pushName}*\n\n 𝗕𝗢𝗧 𝗥𝗘𝗡𝗧𝗔𝗟 𝗣𝗥𝗜𝗖𝗘\n 250rands Per Group via Gpay/paytm/phonepe 1 Month\n\nFor more details, you can chat with the owner\nhttps://wa.me/2+447441437150 (ZIM BOT OWNER)\n\n𝗗𝗢𝗡𝗔𝗧𝗘 : \n\n 𝗙𝗔𝗠𝗣𝗔𝗬 : https://i.imgur.com/TfI3QYW.jpg\n` }, { quoted: m })
  }
  */
  break
  case 'sc': case 'script': case 'donate': case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 
   teks = `
-  *ZIM-BOT-V4*\n\n*YOUTUBE:* https://youtube.com/@ayushmuzik1037:* https://youtube.com/@ayushmuzik1037\n\n*DONATE:* wa.me/918602306506`
+  *ZIM-BOT-V4*\n\n*YOUTUBE:* https://youtu.be/KNu-gr2h7bo\n*GITHUB:* https://youtube.com/@zim-bot\n\n*DONATE:* https://www.paypal.com/paypalme/zimbotinc`
   let buttons = [
   {buttonId: `rpgmenu`, buttonText: {displayText: 'RPG'}, type: 1}
   ]
@@ -1838,12 +1838,12 @@ downloader.downloadAPK("com.microbees.floatingapp")
   headerType: 4,
   contextInfo:{externalAdReply:{
   title:"DONATE ME",
-  body: "AYUSH OFC", 
+  body: "DRIPS OFC", 
   showAdAttribution: true,
   thumbnail: fs.readFileSync("Zimbot/drips.jpg"),
   mediaType:1,
-  mediaUrl: 'https://www.youtube.com/@ayushmuzik1037',
-  sourceUrl: "https://www.youtube.com/@ayushmuzik1037g"
+  mediaUrl: 'https://youtu.be/KNu-gr2h7bo',
+  sourceUrl: "https://youtu.be/KNu-gr2h7bog"
   }}
   }
   ZimBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -1865,12 +1865,12 @@ downloader.downloadAPK("com.microbees.floatingapp")
   headerType: 4,
   contextInfo:{externalAdReply:{
   title:"DONATE ME",
-  body: "AYUSH OFC", 
+  body: "DRIPS OFC", 
   showAdAttribution: true,
   thumbnail: fs.readFileSync("Zimbot/drips.jpg"),
   mediaType:1,
-  mediaUrl: 'https://www.youtube.com/@ayushmuzik1037',
-  sourceUrl: "https://www.youtube.com/@ayushmuzik1037g"
+  mediaUrl: 'https://youtu.be/KNu-gr2h7bo',
+  sourceUrl: "https://youtu.be/KNu-gr2h7bog"
   }}
   }
   ZimBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -2850,7 +2850,7 @@ break
  case 'git': case 'gitclone':
 reply(mess.wait)
  let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
- if(!args[0]) throw 'link github  EXAMPLE: https://www.youtube.com/@ayushmuzik1037/zim-bot-md'
+ if(!args[0]) throw 'link github  EXAMPLE: https://youtube.com/@zim-bot/zim-bot-md'
 if (!regex1.test(args[0])) throw 'link!'
    let [, user, repo] = args[0].match(regex1) || []
     repo = repo.replace(/.git$/, '')
@@ -2860,12 +2860,12 @@ if (!regex1.test(args[0])) throw 'link!'
     reply(`*Please wait, sending repository..*`)
     ZimBotInc.sendMessage(m.chat, { document: { url: url }, fileName: filename+'.zip', mimetype: 'application/zip' , quoted: m,contextInfo: { externalAdReply:{
       title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
-      body:"SUB AYUSH OFC",
+      body:"SUB DRIPS OFC",
       showAdAttribution: true,
       mediaType:2,
       thumbnail: fs.readFileSync('./drips.jpg'),
-      mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
-      sourceUrl: `https://www.youtube.com/@ayushmuzik1037`,
+      mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+      sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
       }}
       })
  
@@ -2880,12 +2880,12 @@ if (!regex1.test(args[0])) throw 'link!'
 				truteh = await getBuffer(`https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg`)
 			ZimBotInc.sendMessage(m.chat, {image: truteh, caption: '*Truth*\n\n'+ ttrth, quoted: m,contextInfo: { externalAdReply:{
         title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
-        body:"SUB AYUSH OFC",
+        body:"SUB DRIPS OFC",
         showAdAttribution: true,
         mediaType:2,
         thumbnail: fs.readFileSync(`./drips.jpg`) ,
-        mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
-        sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }}}, {quoted: m})
+        mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+        sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 break
 case 'ghsearch': 
        case 'githubsearch': 
@@ -2967,7 +2967,7 @@ for (let yoi of anu) {
     let btn = [{
  urlButton: {
   displayText: 'GITHUB',
-  url: 'https://www.youtube.com/@ayushmuzik1037/zimbot-v2'
+  url: 'https://youtube.com/@zim-bot/zimbot-v2'
  }
   }, {
  quickReplyButton: {
@@ -3340,12 +3340,12 @@ replay(mess.wait)
  headerType: 4,
  contextInfo:{externalAdReply:{
  title:`ᴢɪᴍ ʙᴏᴛ ᴠ5`,
- body:`AYUSH OFC`,
+ body:`DRIPS OFC`,
  showAdAttribution: true,
  thumbnail: global.thumb,
  mediaType:2,
- mediaUrl: `https://www.youtube.com/@ayushmuzik1037`,
- sourceUrl: `https://www.youtube.com/@ayushmuzik1037`
+ mediaUrl: `https://youtu.be/KNu-gr2h7bo`,
+ sourceUrl: `https://youtu.be/KNu-gr2h7bo`
  }}
  }
  ZimBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -3694,12 +3694,12 @@ let buttonMessage = {
         image: buf,
         jpegThumbnail:buf,
         caption: caption,
-        footer: ` ⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
         buttons: muziq,
         headerType: 4,
         contextInfo: { externalAdReply:{
         title:"ZIM BOT♡",
-        body:"SUB AYUSH OFC",
+        body:"SUB DRIPS OFC",
         mediaType:2,
         thumbnail: fs.readFileSync(`./drips.jpg`),
         }}
@@ -3728,12 +3728,12 @@ ZimBotInc.sendMessage(m.chat, { document: fs.readFileSync(kudzi.path),
     fileName: bhingu.title + '.mp3',
     mimetype: 'audio/mp4', quoted: m, contextInfo: { externalAdReply:{
 title:"◉ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ◉",
-body:"SUB AYUSH",
+body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: fs.readFileSync(`./drips.jpg`) ,
-mediaUrl:`https://wa.me/918602305405`, 
-sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }
+mediaUrl:`https://wa.me/447441437150`, 
+sourceUrl: `https://youtu.be/KNu-gr2h7bo` }
 },
 }, {quoted: m})
 
@@ -3757,12 +3757,12 @@ zimbotu =  `${jsoni.data.url}`
 
 ZimBotInc.sendMessage(m.chat,{document: {url:jsoni.data.url}, fileName: `${jsoni.title}`, mimetype: 'audio/mp3', quoted: m, contextInfo: { externalAdReply:{
 title:"◉ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ◉",
-body:"SUB AYUSH OFC",
+body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: fs.readFileSync(`./drips.jpg`) ,
-mediaUrl:`https://wa.me/918602305405`, 
-sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }
+mediaUrl:`https://wa.me/447441437150`, 
+sourceUrl: `https://youtu.be/KNu-gr2h7bo` }
 }}, {quoted: m})
 break
 case 'ytmp4': case 'ytvideo': 
@@ -3780,7 +3780,7 @@ const v5=await dripsvideo.mp4(text)
 var buf = await getBuffer(v5.thumb)
 let hobho = ('*ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ🎬ᴡᴀɪᴛ...*')
 await ZimBotInc.sendMessage(m.chat, {text: `*ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ🎬ᴡᴀɪᴛ...* `}, {quoted: m})
-ZimBotInc.sendMessage(m.chat, { video: { url:v5.videoUrl }, mimetype: 'video/mp4', fileName: `${v5.title}.mp4`, caption: `*ᴛɪᴛʟᴇ:* ${v5.title} \n\n *ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037*` , quoted: m,contextInfo: { externalAdReply:{
+ZimBotInc.sendMessage(m.chat, { video: { url:v5.videoUrl }, mimetype: 'video/mp4', fileName: `${v5.title}.mp4`, caption: `*ᴛɪᴛʟᴇ:* ${v5.title} \n\n *ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot*` , quoted: m,contextInfo: { externalAdReply:{
 showAdAttribution: true,
 },
 }},{ quoted: m})
@@ -3802,12 +3802,12 @@ buf = await getBuffer(kudzii.meta.image)
 await ZimBotInc.sendMessage(m.chat, {text: `*ɪᴍ sᴇɴᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ📻ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...* `}, {quoted: m})
 ZimBotInc.sendMessage(m.chat, { audio: fs.readFileSync(kudzii.path), fileName: bhinguu.title + '.mp3', mimetype: 'audio/mp4', quoted: m, contextInfo: { externalAdReply:{
 title:"◉ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ◉",
-body:"SUB AYUSH OFC",
+body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: fs.readFileSync(`./drips.jpg`) ,
-mediaUrl:`https://wa.me/918602305405`, 
-sourceUrl: `https://wa.me/918602305405` }
+mediaUrl:`https://wa.me/447441437150`, 
+sourceUrl: `https://wa.me/447441437150` }
 },
 }, {quoted: m})
 
@@ -3878,12 +3878,12 @@ const result4 = `
 reply(`${result4}`)
 ZimBotInc.sendMessage(m.chat, { document : { url : baby1[0].link}, fileName : baby1[0].nama, mimetype: baby1[0].mime ,  quoted : mudratunha, contextInfo: { externalAdReply:{
   title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
-  body:"SUBSCRIBE AYUSH OFC",
+  body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
-sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
 break
 case 'song': {
@@ -4005,7 +4005,7 @@ case 'ytsaudio': case 'ytsmusic': case 'ytsearchmusic': {
                         m.chat, 
                         {
                         text: `*ϙᴜᴇʀʏ:* \n${text}🎛️`,
-                        footer: ` ⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023` ,
+                        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023` ,
                         title: `*ʏᴏᴜᴛᴜʙᴇ sᴇᴀʀᴄʜ*`,
                         buttonText: "CLICK HERE",
                         sections
@@ -4041,12 +4041,12 @@ case 'fbdl': case 'fb': case 'facebook': case 'fbvideo': {
      for (let i of data.result) {  
     ZimBotInc.sendMessage(m.chat, { video: { url: i.url }, jpegThumbnail:buf, mimetype: 'video/mp4', caption: `*◉ Quality :* ${i.quality}` ,  quoted: m,contextInfo: { externalAdReply:{
       title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
-      body:"SUBSCRIBE AYUSH OFC",
+      body:"SUBSCRIBE DRIPS OFC",
       showAdAttribution: true,
       mediaType:2,
       thumbnail: fs.readFileSync(`./drips.jpg`) ,
-      mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
-      sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }}}, {quoted: m})
+      mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+      sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
      
        
      }
@@ -4208,12 +4208,12 @@ hydratedFooterText: `${botname}`,
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://www.youtube.com/@ayushmuzik1037'
+url: 'https://youtube.com/@zim-bot'
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://www.youtube.com/@ayushmuzik1037'
+url: 'https://youtube.com/@zim-bot'
 }
 }, {
 quickReplyButton: {
@@ -4307,7 +4307,7 @@ url: `${text}`
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://www.youtube.com/@ayushmuzik1037'
+url: 'https://youtube.com/@zim-bot'
 }
 }, {
 quickReplyButton: {
@@ -4879,7 +4879,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://www.youtube.com/@ayushmuzik1037'
+url: 'https://youtube.com/@zim-bot'
 }
 }]
 let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
@@ -4898,7 +4898,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://www.youtube.com/@ayushmuzik1037'
+url: 'https://youtube.com/@zim-bot'
 }
 }]
 let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
@@ -4931,7 +4931,7 @@ await sleep(1500)
 let butoon = [{
 urlButton: {
 displayText: `GITHUB`,
-url: 'https://www.youtube.com/@ayushmuzik1037'
+url: 'https://youtube.com/@zim-bot'
 }
 },
 {
@@ -5099,12 +5099,12 @@ let anu = await TelegraPh(media)
 let buf = await getBuffer(`https://violetics.pw/api/photofilter/${command}?apikey=beta&image=${anu}`)
 ZimBotInc.sendMessage(m.chat, { image: buf, jpegThumbnail:buf, caption: `PhotoFilter ${command}` ,  quoted: m, contextInfo: { externalAdReply:{
   title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
-  body:"SUBSCRIBE AYUSH OFC",
+  body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
-sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
  
 //----END HERE-------\\
@@ -5232,12 +5232,12 @@ if (/leaves/.test(command)) link = 'https://textpro.me/natural-leaves-text-effec
 let anu = await maker.textpro(link, q)
 ZimBotInc.sendMessage(m.chat, { image: { url: anu }, caption: `Made by ${global.botname}` ,  quoted: m, contextInfo: { externalAdReply:{
   title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
-  body:"SUBSCRIBE AYUSH OFC",
+  body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
-sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
 //----END HERE--------\\
 
@@ -5275,12 +5275,12 @@ if (!text) throw `Example : ${prefix + command} text`
 anu = await getBuffer(`https://violetics.pw/api/photooxy/${command}?apikey=beta&text=${text}`)
 ZimBotInc.sendMessage(m.chat, { image: anu, caption: `*PHOTO OXY ${command}*` , quoted: m, contextInfo: { externalAdReply:{
   title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
-  body:"SUBSCRIBE AYUSH OFC",
+  body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
-sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
 break
 
@@ -5304,12 +5304,12 @@ if (!text) throw `Example : ${prefix + command} nama anime`
 anu = await getBuffer(`https://violetics.pw/api/ephoto360/${command}?apikey=beta&text=${text}`)
 ZimBotInc.sendMessage(m.chat, { image: anu, caption: `*EPHOTO ${command}*` ,  quoted: m, contextInfo: { externalAdReply:{
   title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
-  body:"SUBSCRIBE AYUSH OFC",
+  body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
   thumbnail: fs.readFileSync(`./drips.jpg`) ,
-  mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
-sourceUrl: `https://www.youtube.com/@ayushmuzik1037` }}}, {quoted: m})
+  mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
 break
 
@@ -6150,17 +6150,17 @@ let buttoni = [
         fileName: `ᴢɪᴍ ʙᴏᴛ ɪɴᴄ`,
         fileLength: 99999999999999,
         caption: anu,
-        footer: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+        footer: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
         buttons: buttoni,
         headerType: 4,
         contextInfo: { externalAdReply:{
         title:"ᴢɪᴍ ʙᴏᴛ ɪɴᴄ",
-        body:"SUB AYUSH OFC",
+        body:"SUB DRIPS OFC",
         showAdAttribution: true,
         mediaType:2,
         thumbnail: fs.readFileSync('./drips.jpg'),
-        mediaUrl:`https://www.youtube.com/@ayushmuzik1037`, 
-        sourceUrl: `https://www.youtube.com/@ayushmuzik1037`,
+        mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+        sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
         }}
         }
         ZimBotInc.sendMessage(m.chat, buttonMessage)
@@ -6709,8 +6709,8 @@ anu = `
 └───────────●
 %readmore` 
     var buttonReplyy = [
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `SOURCECODE🍏`, url: `https://www.instagram.com/itzisaac_god/` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `SOURCECODE🍏`, url: `http://dripsofc.tech` } },
 				{ quickReplyButton: { displayText: `SPEED`, id: `${prefix}ping` } },
                 { quickReplyButton: { displayText: `OWNER`, id: `${prefix}owner` } },
                 { quickReplyButton: { displayText: `LIST`, id: `${prefix}listmenu` } }
@@ -6764,9 +6764,9 @@ anu = `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 
  var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602306506` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `SUPPORT🍎`, url: `http://` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			tempButtons(from, anu, '', buttonReplyy)
 			}
@@ -6803,10 +6803,9 @@ anu = `
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
  var buttonReplyy = [
-  urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/4474` } },
-  { urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-  { urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
-]
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			tempButtoni(from, anu, '', buttonReplyy)
 			}
@@ -6858,9 +6857,9 @@ case 'photooxymenu': {
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			tempButtonie(from, anu, '', buttonReplyy)
 			}
@@ -6929,9 +6928,9 @@ anu = `
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			tempButtono(from, anu, '', buttonReplyy)
 			}
@@ -7021,7 +7020,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7032,9 +7031,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var textpromenui = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			textpromenus(from, anu, '', textpromenui)
 			}
@@ -7115,7 +7114,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7126,9 +7125,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 
 var downloadmenui = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			donlod(from, anu, '', downloadmenui)
 			}
@@ -7201,7 +7200,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7212,9 +7211,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			photofilter2(from, anu, '', buttonReplyy)
 			}
@@ -7270,7 +7269,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7281,9 +7280,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			nsfmenu(from, anu, '', buttonReplyy)
 			}
@@ -7360,7 +7359,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7371,9 +7370,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
                   };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   var buttonReplyy = [
-          { urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-          { urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-          { urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+          { urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+          { urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+          { urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
         ]
         animemenu1(from, anu, '', buttonReplyy)
         }
@@ -7428,7 +7427,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7439,9 +7438,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			convertmenu1(from, anu, '', buttonReplyy)
 			}
@@ -7492,7 +7491,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7503,9 +7502,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			toolmenu1(from, anu, '', buttonReplyy)
 			}
@@ -7568,7 +7567,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7579,9 +7578,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			saerchmenu11(from, anu, '', buttonReplyy)
 			}
@@ -7628,7 +7627,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://www.youtube.com/@ayushmuzik1037 \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
 hydratedButtons: content,
 },
 },
@@ -7639,9 +7638,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
                   };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/918602305405` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://www.youtube.com/@ayushmuzik1037` } },
-				{ urlButton: { displayText: `INSTA🍎`, url: `https://www.instagram.com/itzisaac_god/` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
 			]
 			ephotomenu11(from, anu, '', buttonReplyy)
 			}
