@@ -8,7 +8,7 @@
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
 //▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮YOUTUBE CHANNELL: https://www.youtube.com/@ayushmuzik1037
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -37,10 +37,10 @@ global.APIKeys = {
 global.Api = new (require('./plugins/neoxrApi.js'))(process.env.API_KEY)
 
 //settings
-global.owner = ['+918602306506',''] //owner number ++447441437150
+global.owner = ['+918602306506',''] //owner number ++918602306506
 global.wame = ['+918602306506'] 
-global.pemilik = ['+918602306506'] //owner number ++447441437150
-global.premium = ['+918602306506'] //premium number ++447441437150
+global.pemilik = ['+918602306506'] //owner number ++918602306506
+global.premium = ['+918602306506'] //premium number ++918602306506
 global.pengguna = 'Ayush' //username
 global.footer = 'ZIM BOT'
 global.botnma = 'ZIM BOT' //bot name
@@ -48,7 +48,7 @@ global.botname = 'ZIM BOT V5 [Ayush]'
 global.ownernma = 'Ayush' //owner name
 global.packname = 'Ayush' //sticker package name
 global.author = 'Its your bro' //sticker author name
-global.sessionName = 'session' //session name
+global.sessionName = 'creds' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
 global.max_upload = 100

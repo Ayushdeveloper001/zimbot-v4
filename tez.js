@@ -1,6 +1,6 @@
 /*const NewsAPI = require('newsapi');
   const newsapi = new NewsAPI('306032cefd134ab38660d7db51dd18d1');
-  //By Drips
+  //By Ayush
   // To query top headlines
   // All options passed to topHeadlines are optional, but you need to include at least one of them
   newsapi.v2.sources({
@@ -33,7 +33,7 @@
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
 //▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮YOUTUBE CHANNELL: https://www.youtube.com/@ayushmuzik1037
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
